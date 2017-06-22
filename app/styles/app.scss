@@ -1,0 +1,15 @@
+$space-large: 2.5rem;
+
+
+*{
+    outline: none;
+}
+
+h1{
+    margin-top: $space-large;
+    margin-bottom: $space-large;
+}
+
+input[type='search']:focus{
+    box-shadow: none;
+}
