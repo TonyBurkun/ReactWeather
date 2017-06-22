@@ -12,7 +12,7 @@ var React = require('react'),
 var Examples = (props) => {
     return (
         <div>
-            <h1 className="text-center">Examples component</h1>
+            <h1 className="text-center">Examples</h1>
             <p>Here are a few example locations to try out:</p>
             <ol>
                 <li>
